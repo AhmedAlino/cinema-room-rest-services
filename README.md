@@ -11,3 +11,14 @@ projector and set it up in a garage, but how can you sell tickets? Having a boot
 old-fashioned, so let's create a special service for that! 
 Make good use of Spring and write a REST service that can show the available seats,sell
 and refund tickets, and display the statistics of your venue. Pass me the popcorn, please!
+
+# Technologies used: 
+ - Java as programming language.
+ - Spring boot to build the service.
+ - Spring Actuator to monitor the application.
+ - lombok to ease up constructing the java classes.
+ - jackson for falicitating mapping json to java classes and vice versa.
+ - Mapstruct for the DTOs
+
+
+This project uses an in memory data base: Java List.
