@@ -2,6 +2,9 @@
 
 Project is in the master branch. 
 
+This Project is part of the JetBrain Accademy Java backend development track 
+that I completed.
+
 # Project description
   Your private movie theater and screen only the movies you like? You can buy a fancy
 projector and set it up in a garage, but how can you sell tickets? Having a booth is 
